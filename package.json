@@ -1,5 +1,5 @@
 {
-  "name": "ashmita-vuln-scanner",
+  "name": "@ashmitasa/ashmita-vuln-scanner",
   "version": "1.0.2",
   "description": "A CLI tool that scans folders and git history for leaked secrets like API keys and passwords",
   "main": "index.js",
