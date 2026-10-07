@@ -3,6 +3,12 @@
   "version": "1.0.3",
   "description": "A CLI tool that scans folders and git history for leaked secrets like API keys and passwords",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "scan.js",
+    "src/",
+    "README.md"
+  ],
   "type": "commonjs",
   "bin": {
     "vuln-scanner": "index.js"
